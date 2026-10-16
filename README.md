@@ -6,6 +6,11 @@ A minimal, single-file web app for sending messages to a Discord channel through
 ![License](https://img.shields.io/badge/license-MIT-black?style=flat-square)
 ![Languages](https://img.shields.io/badge/languages-EN%20%7C%20RU-black?style=flat-square)
 
+**Links**
+
+- Site: [https://github.com/Volt0d/DWS/blob/main/index.html](https://github.com/Volt0d/DWS/blob/main/index.html)
+- Repository: [https://github.com/Volt0d/DWS](https://github.com/Volt0d/DWS)
+
 ---
 
 ## Features
@@ -32,7 +37,11 @@ The interface is a single white page with three cards:
 
 ### Option 1: Run locally
 
-1. Download or clone this repository.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Volt0d/DWS.git
+   cd DWS
+   ```
 2. Open `index.html` in any modern browser.
 
 ### Option 2: Host on GitHub Pages
