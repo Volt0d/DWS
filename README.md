@@ -1,0 +1,2 @@
+# DWS
+Discord webhook sender
